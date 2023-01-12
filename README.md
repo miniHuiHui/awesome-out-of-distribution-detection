@@ -15,3 +15,6 @@
 
 ### 2021
 [ICML2021] [Out-of-Distribution Generalization via Risk Extrapolation](http://proceedings.mlr.press/v139/krueger21a/krueger21a.pdf)
+
+### 2022 
+[NeurIPS 2022 Workshop] [Out-of-Distribution Detection and Selective Generation for Conditional Language Models](https://arxiv.org/pdf/2209.15558.pdf)
