@@ -16,7 +16,7 @@
 ### 2020
 [NeurIPS2020] [Csi: Novelty detection via contrastive learning on distributionally shifted instances](https://proceedings.neurips.cc/paper/2020/file/8965f76632d7672e7d3cf29c87ecaa0c-Paper.pdf) [[code](https://github.com/alinlab/CSI)]
 
-[NeurIPS2020] [Energy-based Out-of-distribution Detection](https://proceedings.neurips.cc/paper/2020/file/f5496252609c43eb8a3d147ab9b9c006-Paper.pdf)[[code](https://github.com/alinlab/CSI)][[code](https://github.com/wetliu/energy_ood)]
+[NeurIPS2020] [Energy-based Out-of-distribution Detection](https://proceedings.neurips.cc/paper/2020/file/f5496252609c43eb8a3d147ab9b9c006-Paper.pdf)[[code](https://github.com/wetliu/energy_ood)]
 
 ### 2021
 [ICML2021] [Out-of-Distribution Generalization via Risk Extrapolation](http://proceedings.mlr.press/v139/krueger21a/krueger21a.pdf)
