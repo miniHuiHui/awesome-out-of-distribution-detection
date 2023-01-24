@@ -34,6 +34,8 @@
 ### 2021
 [ICML2021] [Out-of-Distribution Generalization via Risk Extrapolation](http://proceedings.mlr.press/v139/krueger21a/krueger21a.pdf)
 
+[ICLR2022] [Uncertainty Modeling for Out-of-Distribution Generalization](https://openreview.net/pdf?id=6HN7LHyzGgC)
+
 ### 2022 
 [NeurIPS2022] [Deep Ensembles Work, But Are They Necessary?](https://arxiv.org/pdf/2202.06985.pdf)
 
