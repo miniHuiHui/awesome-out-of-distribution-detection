@@ -46,4 +46,6 @@
 ### 2022 
 [NeurIPS2022] [Deep Ensembles Work, But Are They Necessary?](https://arxiv.org/pdf/2202.06985.pdf)
 
+[NeurIPS2022 Workshop] [Fine-grain Inference on Out-of-Distribution Data with Hierarchical Classification](Fine-grain Inference on Out-of-Distribution Data with Hierarchical Classification)
+
 [NeurIPS2022 Workshop] [Out-of-Distribution Detection and Selective Generation for Conditional Language Models](https://arxiv.org/pdf/2209.15558.pdf)
