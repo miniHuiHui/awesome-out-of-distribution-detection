@@ -12,6 +12,9 @@
 
 [ICLR2018] [Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks](https://arxiv.org/pdf/1706.02690.pdf) [[code](https://github.com/facebookresearch/odin)] :fire:
 
+### 2018
+[BMVC2018] [Metric Learning for Novelty and Anomaly Detection](https://arxiv.org/pdf/1808.05492.pdf)
+
 ### 2019
 [NeurIPS2019] [Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty](https://proceedings.neurips.cc/paper/2019/file/a2b15837edac15df90721968986f7f8e-Paper.pdf)
 
