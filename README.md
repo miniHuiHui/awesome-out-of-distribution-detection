@@ -16,6 +16,8 @@
 [BMVC2018] [Metric Learning for Novelty and Anomaly Detection](https://arxiv.org/pdf/1808.05492.pdf)
 
 ### 2019
+[NeurIPS2019] [Can you trust your model’s uncertainty? evaluating predictive uncertainty under dataset shift.](https://proceedings.neurips.cc/paper/2019/file/8558cb408c1d76621371888657d2eb1d-Paper.pdf)
+
 [NeurIPS2019] [Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty](https://proceedings.neurips.cc/paper/2019/file/a2b15837edac15df90721968986f7f8e-Paper.pdf)
 
 [NeurIPS2019] [Likelihood Ratios for Out-of-Distribution Detection](https://proceedings.neurips.cc/paper/2019/file/1e79596878b2320cac26dd792a6c51c9-Paper.pdf)
