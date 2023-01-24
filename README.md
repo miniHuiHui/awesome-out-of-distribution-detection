@@ -23,6 +23,8 @@
 [NeurIPS2019] [Likelihood Ratios for Out-of-Distribution Detection](https://proceedings.neurips.cc/paper/2019/file/1e79596878b2320cac26dd792a6c51c9-Paper.pdf)
 
 ### 2020
+[NeurIPS2020] [Measuring Robustness to Natural Distribution Shifts in Image Classification](https://proceedings.neurips.cc/paper/2020/file/d8330f857a17c53d217014ee776bfd50-Paper.pdf)[[code](https://modestyachts.github.io/imagenet-testbed/)]
+
 [NeurIPS2020] [Csi: Novelty detection via contrastive learning on distributionally shifted instances](https://proceedings.neurips.cc/paper/2020/file/8965f76632d7672e7d3cf29c87ecaa0c-Paper.pdf) [[code](https://github.com/alinlab/CSI)]
 
 [NeurIPS2020] [Energy-based Out-of-distribution Detection](https://proceedings.neurips.cc/paper/2020/file/f5496252609c43eb8a3d147ab9b9c006-Paper.pdf)[[code](https://github.com/wetliu/energy_ood)]
