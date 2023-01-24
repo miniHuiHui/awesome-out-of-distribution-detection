@@ -34,6 +34,9 @@
 ### 2021
 [ICML2021] [Out-of-Distribution Generalization via Risk Extrapolation](http://proceedings.mlr.press/v139/krueger21a/krueger21a.pdf)
 
+[ICML2021] [Accuracy on the Line: On the Strong Correlation Between Out-of-Distribution and In-Distribution Generalization
+](http://proceedings.mlr.press/v139/miller21b/miller21b.pdf)
+
 [ICLR2022] [Uncertainty Modeling for Out-of-Distribution Generalization](https://openreview.net/pdf?id=6HN7LHyzGgC)
 
 ### 2022 
