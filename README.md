@@ -13,6 +13,8 @@
 [ICLR2018] [Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks](https://arxiv.org/pdf/1706.02690.pdf) [[code](https://github.com/facebookresearch/odin)] :fire:
 
 ### 2018
+[ECCV2018] [Out-of-Distribution Detection Using an Ensemble of Self Supervised Leave-out Classifiers](https://openaccess.thecvf.com/content_ECCV_2018/papers/Apoorv_Vyas_Out-of-Distribution_Detection_Using_ECCV_2018_paper.pdf)
+
 [BMVC2018] [Metric Learning for Novelty and Anomaly Detection](https://arxiv.org/pdf/1808.05492.pdf)
 
 ### 2019
