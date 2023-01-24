@@ -6,7 +6,7 @@
 [ICLR2017] [A baseline for detecting misclassified and out-of-distribution examples in neural networks](https://arxiv.org/pdf/1610.02136.pdf) [[code](https://github.com/hendrycks/error-detection)]
 
 ### 2017
-[NeurIPS2017] [Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles](https://proceedings.neurips.cc/paper/2017/file/9ef2ed4b7fd2c810847ffa5fa85bce38-Paper.pdf)
+[NeurIPS2017] [Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles](https://proceedings.neurips.cc/paper/2017/file/9ef2ed4b7fd2c810847ffa5fa85bce38-Paper.pdf):fire:
 
 [ICLR2018] [Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks](https://arxiv.org/pdf/1706.02690.pdf)[[code](https://github.com/facebookresearch/odin)] :fire:
 
