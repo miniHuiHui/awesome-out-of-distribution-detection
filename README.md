@@ -8,7 +8,7 @@
 ### 2017
 [NeurIPS2017] [Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles](https://proceedings.neurips.cc/paper/2017/file/9ef2ed4b7fd2c810847ffa5fa85bce38-Paper.pdf):fire:
 
-[ICLR2018] [Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples](https://arxiv.org/pdf/1711.09325.pdf) [[code]](https://github.com/alinlab/Confident_classifier)
+[ICLR2018] [Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples](https://arxiv.org/pdf/1711.09325.pdf) [[code](https://github.com/alinlab/Confident_classifier)]
 
 [ICLR2018] [Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks](https://arxiv.org/pdf/1706.02690.pdf) [[code](https://github.com/facebookresearch/odin)] :fire:
 
