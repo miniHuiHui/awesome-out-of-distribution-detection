@@ -45,6 +45,8 @@
 
 [NeurIPS2021] [Neural Ensemble Search for Uncertainty Estimation and Dataset Shift](https://proceedings.neurips.cc/paper/2021/file/41a6fd31aa2e75c3c6d427db3d17ea80-Paper.pdf)[[code](https://github.com/automl/nes)]
 
+[NeurIPS2021] [Can multi-label classification networks know what they don’t know?](https://proceedings.neurips.cc/paper/2021/file/f3b7e5d3eb074cde5b76e26bc0fb5776-Paper.pdf)
+
 [ICML2021] [Out-of-Distribution Generalization via Risk Extrapolation](http://proceedings.mlr.press/v139/krueger21a/krueger21a.pdf)
 
 [ICML2021] [Accuracy on the Line: On the Strong Correlation Between Out-of-Distribution and In-Distribution Generalization
