@@ -39,6 +39,8 @@
 ### 2021
 [ICLR2021] [Protecting DNNs from Theft using an Ensemble of Diverse Models](https://openreview.net/pdf?id=LucJxySuJcE)
 
+[NeurIPS2021] [Exploring the Limits of Out-of-Distribution Detection](https://proceedings.neurips.cc/paper/2021/file/3941c4358616274ac2436eacf67fae05-Paper.pdf)
+
 [NeurIPS2021] [Neural Ensemble Search for Uncertainty Estimation and Dataset Shift](https://proceedings.neurips.cc/paper/2021/file/41a6fd31aa2e75c3c6d427db3d17ea80-Paper.pdf)[[code](https://github.com/automl/nes)]
 
 [ICML2021] [Out-of-Distribution Generalization via Risk Extrapolation](http://proceedings.mlr.press/v139/krueger21a/krueger21a.pdf)
