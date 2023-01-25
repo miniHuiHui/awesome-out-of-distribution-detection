@@ -46,7 +46,7 @@
 [ICML2021] [Accuracy on the Line: On the Strong Correlation Between Out-of-Distribution and In-Distribution Generalization
 ](http://proceedings.mlr.press/v139/miller21b/miller21b.pdf)
 
-[EMNLP] [kFolden: k-Fold Ensemble for Out-Of-Distribution Detection](https://arxiv.org/pdf/2108.12731.pdf)
+[EMNLP2021] [kFolden: k-Fold Ensemble for Out-Of-Distribution Detection](https://arxiv.org/pdf/2108.12731.pdf)
 
 [TVCG] [Transactions on Visualization and Computer Graphics](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8994105)
 ### 2022 
