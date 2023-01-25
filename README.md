@@ -41,6 +41,8 @@
 
 [NeurIPS2021] [Exploring the Limits of Out-of-Distribution Detection](https://proceedings.neurips.cc/paper/2021/file/3941c4358616274ac2436eacf67fae05-Paper.pdf)
 
+[NeurIPS2021] [On the Importance of Gradients for Detecting Distributional Shifts in the Wild](https://proceedings.neurips.cc/paper/2021/file/063e26c670d07bb7c4d30e6fc69fe056-Paper.pdf)
+
 [NeurIPS2021] [Neural Ensemble Search for Uncertainty Estimation and Dataset Shift](https://proceedings.neurips.cc/paper/2021/file/41a6fd31aa2e75c3c6d427db3d17ea80-Paper.pdf)[[code](https://github.com/automl/nes)]
 
 [ICML2021] [Out-of-Distribution Generalization via Risk Extrapolation](http://proceedings.mlr.press/v139/krueger21a/krueger21a.pdf)
