@@ -58,6 +58,8 @@
 ### 2022 
 [ICLR2022] [Uncertainty Modeling for Out-of-Distribution Generalization](https://openreview.net/pdf?id=6HN7LHyzGgC)
 
+[ICML2022] [Out-of-distribution detection with deep nearest neighbors](https://proceedings.mlr.press/v162/sun22d/sun22d.pdf)
+
 [NeurIPS2022] [Deep Ensembles Work, But Are They Necessary?](https://arxiv.org/pdf/2202.06985.pdf)
 
 [NeurIPS2022 Workshop] [Fine-grain Inference on Out-of-Distribution Data with Hierarchical Classification](https://arxiv.org/pdf/2209.04493.pdf)
