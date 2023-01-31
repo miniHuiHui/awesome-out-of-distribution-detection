@@ -60,6 +60,8 @@
 
 [ICML2022] [Out-of-distribution detection with deep nearest neighbors](https://proceedings.mlr.press/v162/sun22d/sun22d.pdf)
 
+[ICML2022] [Partial and Asymmetric Contrastive Learning for Out-of-Distribution Detection in Long-Tailed Recognition](https://proceedings.mlr.press/v162/wang22aq/wang22aq.pdf)[[code](https://github.com/amazon-science/long-tailed-ood-detection)]
+
 [NeurIPS2022] [Deep Ensembles Work, But Are They Necessary?](https://arxiv.org/pdf/2202.06985.pdf)
 
 [NeurIPS2022 Workshop] [Fine-grain Inference on Out-of-Distribution Data with Hierarchical Classification](https://arxiv.org/pdf/2209.04493.pdf)
