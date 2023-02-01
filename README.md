@@ -80,3 +80,5 @@
 [ICLR2023] [A framework for benchmarking Class-out-of-distribution detection and its application to ImageNet](https://openreview.net/forum?id=Iuubb9W6Jtk)
 
 [ICLR2023] [Turning the Curse of Heterogeneity in Federated Learning into a Blessing for Out-of-Distribution Detection](https://openreview.net/forum?id=mMNimwRb7Gr)
+
+[ICLR2023] [Packed Ensembles for efficient uncertainty estimation](https://openreview.net/forum?id=XXTyv1zD9zD)
