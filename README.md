@@ -37,6 +37,8 @@
 [CVPR2020] [Evaluating Scalable Bayesian Deep Learning Methods for Robust Computer Vision](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w20/Gustafsson_Evaluating_Scalable_Bayesian_Deep_Learning_Methods_for_Robust_Computer_Vision_CVPRW_2020_paper.pdf)
 
 ### 2021
+[ICLR2021] [SSD: A Unified Framework for Self-Supervised Outlier Detection](https://openreview.net/pdf?id=v5gjXpmR8J)[[code](https://github.com/inspire-group/SSD)]
+
 [ICLR2021] [Protecting DNNs from Theft using an Ensemble of Diverse Models](https://openreview.net/pdf?id=LucJxySuJcE)
 
 [NeurIPS2021] [Exploring the Limits of Out-of-Distribution Detection](https://proceedings.neurips.cc/paper/2021/file/3941c4358616274ac2436eacf67fae05-Paper.pdf)
