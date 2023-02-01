@@ -92,3 +92,13 @@
 [ICLR2023] [Out-of-distribution Detection with Implicit Outlier Transformation](https://openreview.net/forum?id=hdghx6wbGuD)
 
 [ICLR2023] [How to Exploit Hyperspherical Embeddings for Out-of-Distribution Detection?](https://openreview.net/forum?id=aEFaE0W5pAd) 🌟
+
+[ICLR2023] [Efficient Out-of-Distribution Detection based on In-Distribution Data Patterns Memorization with Modern Hopfield Energy](https://openreview.net/forum?id=KkazG4lgKL)
+
+[ICLR2023] [Non-parametric Outlier Synthesis](https://openreview.net/forum?id=JHklpEZqduQ)
+
+[ICLR2023] [Extremely Simple Activation Shaping for Out-of-Distribution Detection](https://openreview.net/forum?id=ndYXTEL6cZz)
+
+[ICLR2023] [Out-of-distribution Representation Learning for Time Series Classification](https://openreview.net/forum?id=ndYXTEL6cZz)
+
+
