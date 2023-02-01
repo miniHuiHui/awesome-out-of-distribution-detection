@@ -57,6 +57,7 @@
 [EMNLP2021] [kFolden: k-Fold Ensemble for Out-Of-Distribution Detection](https://arxiv.org/pdf/2108.12731.pdf)
 
 [TVCG] [Transactions on Visualization and Computer Graphics](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8994105)
+
 ### 2022 
 [ICLR2022] [Uncertainty Modeling for Out-of-Distribution Generalization](https://openreview.net/pdf?id=6HN7LHyzGgC)
 
@@ -69,3 +70,7 @@
 [NeurIPS2022 Workshop] [Fine-grain Inference on Out-of-Distribution Data with Hierarchical Classification](https://arxiv.org/pdf/2209.04493.pdf)
 
 [NeurIPS2022 Workshop] [Out-of-Distribution Detection and Selective Generation for Conditional Language Models](https://arxiv.org/pdf/2209.15558.pdf)
+
+### 2023 
+
+[ICLR2023] [Agree to Disagree: Diversity through Disagreement for Better Transferability](https://openreview.net/forum?id=K7CbYQbyYhY)
