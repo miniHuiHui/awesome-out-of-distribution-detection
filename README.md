@@ -86,3 +86,9 @@
 [ICLR2023] [Harnessing Out-Of-Distribution Examples via Augmenting Content and Style](https://openreview.net/forum?id=boNyg20-JDm)
 
 [ICLR2023] [The Tilted Variational Autoencoder: Improving Out-of-Distribution Detection](https://openreview.net/forum?id=YlGsTZODyjz)
+
+[ICLR2023] [Energy-based Out-of-Distribution Detection for Graph Neural Networks](https://openreview.net/forum?id=zoz7Ze4STUL)
+
+[ICLR2023] [Out-of-distribution Detection with Implicit Outlier Transformation](https://openreview.net/forum?id=hdghx6wbGuD)
+
+[ICLR2023] [How to Exploit Hyperspherical Embeddings for Out-of-Distribution Detection?](https://openreview.net/forum?id=aEFaE0W5pAd) 🌟:
