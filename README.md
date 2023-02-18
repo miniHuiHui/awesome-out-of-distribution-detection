@@ -49,7 +49,7 @@
 
 [NeurIPS2022] [Beyond Mahalanobis Distance for Textual OOD Detection](https://openreview.net/pdf?id=ReB7CCByD6U)
 
-[NeurIPS2022] [Boosting Out-of-distribution Detection with Typical Features](Beyond Mahalanobis-Based Scores for Textual OOD Detection)
+[NeurIPS2022] [Boosting Out-of-distribution Detection with Typical Features](https://openreview.net/pdf?id=4maAiUt0A4)
 
 [NeurIPS2022] [Out-of-Distribution Detection with An Adaptive Likelihood Ratio on Informative Hierarchical VAE](https://openreview.net/pdf?id=vMQ1V_z0TxU)
 
