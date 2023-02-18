@@ -69,7 +69,6 @@
 
 [NeurIPS2022] [Density-driven Regularization for Out-of-distribution Detection](https://openreview.net/pdf?id=aZQJMVx8fk)
 
-[NeurIPS2022] []
 
 [NeurIPS2022 Workshop] [Fine-grain Inference on Out-of-Distribution Data with Hierarchical Classification](https://arxiv.org/pdf/2209.04493.pdf)
 
