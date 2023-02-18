@@ -41,6 +41,36 @@
 
 [NeurIPS2022] [Deep Ensembles Work, But Are They Necessary?](https://arxiv.org/pdf/2202.06985.pdf)
 
+[NeurIPS2022] [Watermarking for Out-of-distribution Detection](https://openreview.net/pdf?id=6rhl2k1SUGs)
+
+[NeurIPS2022] [GraphDE: A Generative Framework for Debiased Learning and Out-of-Distribution Detection on Graphs](https://openreview.net/pdf?id=mSiPuHIP7t8)
+
+[NeurIPS2022] [Out-of-Distribution Detection via Conditional Kernel Independence Model](https://openreview.net/pdf?id=rTTh1RIn6E)
+
+[NeurIPS2022] [Beyond Mahalanobis Distance for Textual OOD Detection](https://openreview.net/pdf?id=ReB7CCByD6U)
+
+[NeurIPS2022] [Boosting Out-of-distribution Detection with Typical Features](Beyond Mahalanobis-Based Scores for Textual OOD Detection)
+
+[NeurIPS2022] [Out-of-Distribution Detection with An Adaptive Likelihood Ratio on Informative Hierarchical VAE](https://openreview.net/pdf?id=vMQ1V_z0TxU)
+
+[NeurIPS2022] [RankFeat: Rank-1 Feature Removal for Out-of-distribution Detection](https://openreview.net/pdf?id=-deKNiSOXLG)
+
+[NeurIPS2022] [Your Out-of-Distribution Detection Method is Not Robust!](https://openreview.net/pdf?id=YUEP3ZmkL1)
+
+[NeurIPS2022] [Provably Adversarially Robust Detection of Out-of-Distribution Data (Almost) for Free](https://openreview.net/pdf?id=9ZWgrozGP0)
+
+[NeurIPS2022] [Is Out-of-Distribution Detection Learnable?](https://openreview.net/pdf?id=sde_7ZzGXOE)
+
+[NeurIPS2022] [SIREN: Shaping Representations for Detecting Out-of-Distribution Objects](https://openreview.net/pdf?id=8E8tgnYlmN)
+
+[NeurIPS2022] [Delving into Out-of-Distribution Detection with Vision-Language Representations](https://openreview.net/pdf?id=KnCS9390Va)
+
+[NeurIPS2022] [UQGAN: A Unified Model for Uncertainty Quantification of Deep Classifiers trained via Conditional GANs](https://openreview.net/pdf?id=djOANbV2zSu)
+
+[NeurIPS2022] [Density-driven Regularization for Out-of-distribution Detection](https://openreview.net/pdf?id=aZQJMVx8fk)
+
+[NeurIPS2022] []
+
 [NeurIPS2022 Workshop] [Fine-grain Inference on Out-of-Distribution Data with Hierarchical Classification](https://arxiv.org/pdf/2209.04493.pdf)
 
 [NeurIPS2022 Workshop] [Out-of-Distribution Detection and Selective Generation for Conditional Language Models](https://arxiv.org/pdf/2209.15558.pdf)
