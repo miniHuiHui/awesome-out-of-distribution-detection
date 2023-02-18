@@ -96,7 +96,8 @@
 
 [EMNLP2021] [kFolden: k-Fold Ensemble for Out-Of-Distribution Detection](https://arxiv.org/pdf/2108.12731.pdf)
 
-[TVCG] [Transactions on Visualization and Computer Graphics](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8994105)
+[TVCG] [OoDAnalyzer: Interactive Analysis of Out-of-Distribution Samples
+](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8994105)
 
 ### 2020
 [ICLR2020] [Ensemble Distribution Distillation](https://openreview.net/pdf?id=BygSP6Vtvr)
