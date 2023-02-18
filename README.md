@@ -41,6 +41,12 @@
 
 [ICML2022] [Training OOD Detectors in their Natural Habitats](https://proceedings.mlr.press/v162/katz-samuels22a/katz-samuels22a.pdf)
 
+[ICML2022] [Breaking Down Out-of-Distribution Detection: Many Methods Based on OOD Training Data Estimate a Combination of the Same Core Quantities](https://proceedings.mlr.press/v162/bitterwolf22a/bitterwolf22a.pdf)
+
+[ICML2022] [Scaling Out-of-Distribution Detection for Real-World Settings](https://proceedings.mlr.press/v162/hendrycks22a/hendrycks22a.pdf)
+
+[ICML2022] [POEM: Out-of-Distribution Detection with Posterior Sampling](https://proceedings.mlr.press/v162/ming22a/ming22a.pdf)
+
 [NeurIPS2022] [Deep Ensembles Work, But Are They Necessary?](https://arxiv.org/pdf/2202.06985.pdf)
 
 [NeurIPS2022] [Watermarking for Out-of-distribution Detection](https://openreview.net/pdf?id=6rhl2k1SUGs)
