@@ -35,6 +35,16 @@
 ### 2022 
 [ICLR2022] [Uncertainty Modeling for Out-of-Distribution Generalization](https://openreview.net/pdf?id=6HN7LHyzGgC)
 
+[ICLR2022] [Igeood: An Information Geometry Approach to Out-of-Distribution Detection](https://openreview.net/pdf?id=mfwdY3U_9ea)
+
+[ICLR2022] [Revisiting flow generative models for Out-of-distribution detection](https://openreview.net/pdf?id=6y2KBh-0Fd9)
+
+[ICLR2022] [A Statistical Framework for Efficient Out of Distribution Detection in Deep Neural Networks](https://openreview.net/pdf?id=Oy9WeuZD51)
+
+[ICLR2022] [VOS: Learning What You Don't Know by Virtual Outlier Synthesis](https://openreview.net/pdf?id=TW7d65uYu5M)
+
+[ICLR2022] [Meta Learning Low Rank Covariance Factors for Energy Based Deterministic Uncertainty](https://openreview.net/pdf?id=GQd7mXSPua)
+
 [ICML2022] [Out-of-distribution detection with deep nearest neighbors](https://proceedings.mlr.press/v162/sun22d/sun22d.pdf)
 
 [ICML2022] [Partial and Asymmetric Contrastive Learning for Out-of-Distribution Detection in Long-Tailed Recognition](https://proceedings.mlr.press/v162/wang22aq/wang22aq.pdf)[[code](https://github.com/amazon-science/long-tailed-ood-detection)]
