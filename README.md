@@ -39,6 +39,8 @@
 
 [ICML2022] [Partial and Asymmetric Contrastive Learning for Out-of-Distribution Detection in Long-Tailed Recognition](https://proceedings.mlr.press/v162/wang22aq/wang22aq.pdf)[[code](https://github.com/amazon-science/long-tailed-ood-detection)]
 
+[ICML2022] [Training OOD Detectors in their Natural Habitats](https://proceedings.mlr.press/v162/katz-samuels22a/katz-samuels22a.pdf)
+
 [NeurIPS2022] [Deep Ensembles Work, But Are They Necessary?](https://arxiv.org/pdf/2202.06985.pdf)
 
 [NeurIPS2022] [Watermarking for Out-of-distribution Detection](https://openreview.net/pdf?id=6rhl2k1SUGs)
