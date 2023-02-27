@@ -129,6 +129,8 @@
 [CVPR2020] [Evaluating Scalable Bayesian Deep Learning Methods for Robust Computer Vision](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w20/Gustafsson_Evaluating_Scalable_Bayesian_Deep_Learning_Methods_for_Robust_Computer_Vision_CVPRW_2020_paper.pdf)
 
 ### 2019
+[ICLR2019] [Deep Anomaly Detection with Outlier Exposure](https://openreview.net/pdf?id=HyxCxhRcY7)
+
 [NeurIPS2019] [Can you trust your model’s uncertainty? evaluating predictive uncertainty under dataset shift.](https://proceedings.neurips.cc/paper/2019/file/8558cb408c1d76621371888657d2eb1d-Paper.pdf)
 
 [NeurIPS2019] [Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty](https://proceedings.neurips.cc/paper/2019/file/a2b15837edac15df90721968986f7f8e-Paper.pdf)
