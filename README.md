@@ -87,10 +87,14 @@
 
 [NeurIPS2022] [Density-driven Regularization for Out-of-distribution Detection](https://openreview.net/pdf?id=aZQJMVx8fk)
 
+[ECCV2022] [Tailoring Self-Supervision for Supervised Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850342.pdf)[[Code](https://github.com/wjun0830/Localizable-Rotation)]
+
 
 [NeurIPS2022 Workshop] [Fine-grain Inference on Out-of-Distribution Data with Hierarchical Classification](https://arxiv.org/pdf/2209.04493.pdf)
 
 [NeurIPS2022 Workshop] [Out-of-Distribution Detection and Selective Generation for Conditional Language Models](https://arxiv.org/pdf/2209.15558.pdf)
+
+
 
 ### 2021
 [ICLR2021] [SSD: A Unified Framework for Self-Supervised Outlier Detection](https://openreview.net/pdf?id=v5gjXpmR8J)[[code](https://github.com/inspire-group/SSD)]
