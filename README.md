@@ -152,6 +152,8 @@
 
 [BMVC2018] [Metric Learning for Novelty and Anomaly Detection](https://arxiv.org/pdf/1808.05492.pdf)
 
+[NeurIPS2018] [A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks](https://proceedings.neurips.cc/paper/2018/file/abdeb6f575ac5c6676b747bca8d09cc2-Paper.pdf)
+
 ### 2017
 [ICLR2017] [A baseline for detecting misclassified and out-of-distribution examples in neural networks](https://arxiv.org/pdf/1610.02136.pdf) [[code](https://github.com/hendrycks/error-detection)]
 
