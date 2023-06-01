@@ -3,6 +3,7 @@
 ## Paper
 
 ### 2023 
+[ICML2023] [Hybrid Energy Based Model in the Feature Space for Out-of-Distribution Detection](https://arxiv.org/pdf/2305.16966.pdf)
 
 [ICLR2023] [Agree to Disagree: Diversity through Disagreement for Better Transferability](https://openreview.net/forum?id=K7CbYQbyYhY)
 
