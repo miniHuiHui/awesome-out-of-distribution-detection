@@ -3,6 +3,8 @@
 ## Paper
 
 ### 2023 
+[ACL2023] [Is Fine-tuning Needed? Pre-trained Language Models Are Near Perfect for Out-of-Domain Detection](https://arxiv.org/pdf/2305.13282.pdf)
+
 [ICML2023] [Hybrid Energy Based Model in the Feature Space for Out-of-Distribution Detection](https://arxiv.org/pdf/2305.16966.pdf)
 
 [ICLR2023] [Agree to Disagree: Diversity through Disagreement for Better Transferability](https://openreview.net/forum?id=K7CbYQbyYhY)
