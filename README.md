@@ -3,6 +3,8 @@
 ## Paper
 
 ### 2023 
+[CVPR2023] [Rethinking Out-of-distribution (OOD) Detection: Masked Image Modeling is All You Need](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Rethinking_Out-of-Distribution_OOD_Detection_Masked_Image_Modeling_Is_All_You_CVPR_2023_paper.pdf)
+
 [CVPR2023] [LINe: Out-of-Distribution Detection by Leveraging Important Neurons](https://openaccess.thecvf.com/content/CVPR2023/papers/Ahn_LINe_Out-of-Distribution_Detection_by_Leveraging_Important_Neurons_CVPR_2023_paper.pdf)
 
 [ACL2023] [Is Fine-tuning Needed? Pre-trained Language Models Are Near Perfect for Out-of-Domain Detection](https://arxiv.org/pdf/2305.13282.pdf)
