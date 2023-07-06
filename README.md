@@ -3,6 +3,19 @@
 ## Paper
 
 ### 2023 
+[CVPR2023] [Block Selection Method for Using Feature Norm in Out-of-Distribution Detection](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Block_Selection_Method_for_Using_Feature_Norm_in_Out-of-Distribution_Detection_CVPR_2023_paper.pdf)
+
+[CVPR2023] [Uncertainty-Aware Optimal Transport for Semantically Coherent Out-of-Distribution Detection](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Uncertainty-Aware_Optimal_Transport_for_Semantically_Coherent_Out-of-Distribution_Detection_CVPR_2023_paper.pdf)
+
+[CVPR2023] [GEN: Pushing the Limits of Softmax-Based Out-of-Distribution Detection](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_GEN_Pushing_the_Limits_of_Softmax-Based_Out-of-Distribution_Detection_CVPR_2023_paper.pdf)
+
+[CVPR2023] [Detection of out-of-distribution samples using binary neuron activation patterns
+](https://openaccess.thecvf.com/content/CVPR2023/papers/Olber_Detection_of_Out-of-Distribution_Samples_Using_Binary_Neuron_Activation_Patterns_CVPR_2023_paper.pdf)
+
+[CVPR2023] [Decoupling MaxLogit for Out-of-Distribution Detection](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Decoupling_MaxLogit_for_Out-of-Distribution_Detection_CVPR_2023_paper.pdf)
+
+[CVPR2023] [Balanced Energy Regularization Loss for Out-of-distribution Detection](https://openaccess.thecvf.com/content/CVPR2023/papers/Choi_Balanced_Energy_Regularization_Loss_for_Out-of-Distribution_Detection_CVPR_2023_paper.pdf)
+
 [CVPR2023] [Rethinking Out-of-distribution (OOD) Detection: Masked Image Modeling is All You Need](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Rethinking_Out-of-Distribution_OOD_Detection_Masked_Image_Modeling_Is_All_You_CVPR_2023_paper.pdf)
 
 [CVPR2023] [LINe: Out-of-Distribution Detection by Leveraging Important Neurons](https://openaccess.thecvf.com/content/CVPR2023/papers/Ahn_LINe_Out-of-Distribution_Detection_by_Leveraging_Important_Neurons_CVPR_2023_paper.pdf)
