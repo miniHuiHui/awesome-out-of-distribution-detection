@@ -24,6 +24,18 @@
 
 [ICML2023] [Hybrid Energy Based Model in the Feature Space for Out-of-Distribution Detection](https://arxiv.org/pdf/2305.16966.pdf)
 
+[ICML2023] [Unsupervised Out-of-Distribution Detection with Diffusion Inpainting](https://openreview.net/pdf?id=HiX1ybkFMl)
+
+[ICML2023] [Concept-based Explanations for Out-of-Distribution Detectors](https://openreview.net/pdf?id=a33IYBCFey)
+
+[ICML2023] [In or Out? Fixing ImageNet Out-of-Distribution Detection Evaluation](https://openreview.net/attachment?id=ChniRIfpRR&name=pdf)
+
+[ICML2023] [Detecting Out-of-distribution Data through In-distribution Class Prior](https://openreview.net/attachment?id=charggEv8v&name=pdf)
+
+[ICML2023] [Unleashing Mask: Explore the Intrinsic Out-of-Distribution Detection Capability](https://openreview.net/attachment?id=9himkcdirP&name=pdf)
+
+[ICML2023] [Feed Two Birds with One Scone: Exploiting Wild Data for Both Out-of-Distribution Generalization and Detection](https://openreview.net/attachment?id=3FydczZwkJ&name=pdf)
+
 [ICLR2023] [Agree to Disagree: Diversity through Disagreement for Better Transferability](https://openreview.net/forum?id=K7CbYQbyYhY)
 
 [ICLR2023] [Out-of-Distribution Detection and Selective Generation for Conditional Language Models](https://openreview.net/forum?id=kJUS5nD0vPB)
